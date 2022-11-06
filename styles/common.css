@@ -1,0 +1,171 @@
+.kia-logo-name{
+    display: inline;
+    position: relative;
+    top: 2px;
+    color: #368ae3;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#mynavbar{
+    margin-left: 755px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#mynavbar a{
+    color: antiquewhite;
+}
+#mynavbar a:hover{
+    color: #368ae3;
+}
+
+.navbar-dark{
+background: black;
+padding-bottom: 15px;
+}
+
+/* common headers css start */
+.logo-img{
+    height: 40px;
+    width: 80px;
+}
+
+.kia-logo-name{
+    display: inline;
+    position: relative;
+    top: 2px;
+    color: #368ae3;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#mynavbar{
+    margin-left: 755px;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#mynavbar a{
+    color: antiquewhite;
+}
+#mynavbar a:hover{
+    color: #368ae3;
+}
+/* headers css end */
+
+/* footer css Start */
+.footer{
+    display: grid;
+    grid-template-columns:auto auto auto auto;
+    text-align: center;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    padding: 30px 0px;
+    font-size:18px;
+  
+  }
+  .footer a{
+    color: aliceblue;
+    font-size:17px;
+    display: block;
+    text-decoration: none;
+    margin-top: 7px;
+  
+  }
+  .social-links .fa {
+    padding: 3px;
+    text-align: center;
+  }
+  .footer-heads{
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-bottom: 0px;
+    color: #368ae3;
+    margin-top: 10px;
+  }
+  .address {
+    font-size:17px;
+  }
+  .footer-copyright{
+    background-color: #aaa;
+    text-align: center;
+    padding: 18px;
+    font-weight: 600;
+  }
+  .footer-copyright a{
+    text-decoration: none;
+    color: #dde99a;
+  }
+  .footer-copyright a:hover{
+    color: white;
+  }
+  .footer a:hover {
+      color: #67c7ff;
+  }
+/* footer css End */
+
+
+/* Single product page : seltos css start*/
+.cars-banner img{
+width: 100%;
+margin-top: 20px;
+margin-bottom: 30px;
+}
+.cars-banner h2{
+    margin-top: 50px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 30px 0px;
+}
+.grid-item{
+    border: 1px solid #aaa;
+    padding: 20px;
+    color: lightslategrey;
+}
+.grid-item p {
+    margin-bottom: 0px;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+.product-details {
+    margin: 25px 0px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-booknow{
+    text-align: center;
+    padding: 20px;
+}
+.btn-booknow button{
+    background: #67c7ff;
+    border: unset;
+    padding: 12px 35px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+.cars-nav{
+position: relative;
+    top: 50px;
+    text-align: center;
+    position: relative;
+    display: initial;
+}
+
+.cars-nav .row{
+    margin-left: 210px;
+    margin-top: 6px;
+}
+
+.cars-nav .row a{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    text-decoration: unset;
+}
+/* single product page css start  */

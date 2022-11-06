@@ -1,0 +1,59 @@
+/* About content css start */
+table{
+    margin: 40px 0px;
+  }
+  
+  table, th, td {
+      border: 1px solid;
+      border-collapse: collapse;
+      padding: 20px;
+      font-size: 18px;
+      text-align: center;
+  }
+  
+  .sale-table{
+    text-align: -webkit-center;
+  }
+  
+  th{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: unset;
+  
+  }
+  .container h2{
+    background-image: linear-gradient(45deg, #368ae3, transparent);
+      padding: 5px;
+      text-align: left;
+      font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  .container p {
+      margin: 25px 0px;
+      font-size: 18px;
+      font-weight: 400;
+  }
+
+  .about-banner img{
+    width: 100%;
+    margin-top: 74px;
+    height: 585px;
+  }
+
+  .container{
+    margin-top: 50px;
+  }
+
+  .bg-img-title{
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    right: 560px;
+    top: 300px;
+    color: #368ae3;
+    font-size: 50px;
+    background: radial-gradient(white, transparent);
+    padding: 10px;
+}
+/* About content css end */
